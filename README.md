@@ -33,3 +33,9 @@ Dự án **Paint Mixer** được phát triển trên **TIA Portal** nhằm đi�
 │   └── HMI/                     # Dự án giao diện HMI
 ├── Documentation/               # Tài liệu hướng dẫn sử dụng và kỹ thuật
 └── README.md                    # Tệp README này
+
+    ```
+
+## Link youtube
+https://youtu.be/vjInrGwB17w?si=SdYsBEPbvobO44qz
+https://youtu.be/r2CklHVwUf4?si=vySAUYuNm1NQjRnk
